@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/146695747-d3cce933-c6a9-43b2-aa93-f8fe7fd2815e.png" align="left" height="150px" width="150px">
+    <h1># Criando seu jogo no estilo Space Shooter</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Neste projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Javascript. Aprenderemos juntos a trabalhar com posicionamento no CSS e lógica de programação utilizando posicionamento com CSS, manipulação do DOM, eventListeners, e manipulação de Array.
     </p>
 </p>      
 
